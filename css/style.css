@@ -33,3 +33,8 @@ img:hover {
 background-color: snow;
 box-shadow: 10px 13px 15px 10px maroon
 }
+
+a{
+    text-decoration: none;
+    color: maroon;
+}
